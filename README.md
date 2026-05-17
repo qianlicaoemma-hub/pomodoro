@@ -4,9 +4,12 @@
 
 设计风格：编辑设计 / 意大利老式年鉴 —— 奶油纸底、墨黑、番茄红。
 
+**👉 线上直接使用：<https://qianlicaoemma-hub.github.io/pomodoro/>**
+
 ## 使用
 
-直接双击 `index.html`，或在浏览器中打开。
+- **在线版**：打开 <https://qianlicaoemma-hub.github.io/pomodoro/>
+- **本地版**：下载 `index.html`，双击即可在浏览器中打开
 
 ## 功能
 
