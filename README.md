@@ -6,6 +6,8 @@
 
 **👉 线上直接使用：<https://qianlicaoemma-hub.github.io/pomodoro/>**
 
+![Pomodoro 番茄钟界面截图](./screenshot.png)
+
 ## 使用
 
 - **在线版**：打开 <https://qianlicaoemma-hub.github.io/pomodoro/>
